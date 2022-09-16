@@ -12,3 +12,10 @@ C:\Users\stud\Desktop\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojAssemblyR
 C:\Users\stud\Desktop\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
 C:\Users\stud\Desktop\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
 C:\Users\stud\Desktop\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
+C:\Users\stud\Desktop\Course4\Group01\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\stud\Desktop\Course4\Group01\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\stud\Desktop\Course4\Group01\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\stud\Desktop\Course4\Group01\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Course4\Group01\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Course4\Group01\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\stud\Desktop\Course4\Group01\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
