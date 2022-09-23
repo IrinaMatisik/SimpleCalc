@@ -20,6 +20,8 @@ namespace SimpleCalc
             Console.WriteLine("Result subtraction = " + resSub);
             double resMul = a * b;
             Console.WriteLine("Result subtraction = " + resMul);
+            double resDiv = a / b;
+            Console.WriteLine("Result division = " + resDiv);
             Console.ReadKey();
         }
     }
