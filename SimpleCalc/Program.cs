@@ -22,6 +22,8 @@ namespace SimpleCalc
             Console.WriteLine("Result subtraction = " + resMul);
             double resDiv = a / b;
             Console.WriteLine("Result division = " + resDiv);
+            double resSin = Math.Sin(a);
+            Console.WriteLine("Result sinus = " + resSin);
             Console.ReadKey();
         }
     }
